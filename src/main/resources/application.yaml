@@ -1,0 +1,7 @@
+cloud:
+  aws:
+    credentials:
+      profile-name: rsanfelice
+    region:
+      static: eu-central-1
+      auto: false
